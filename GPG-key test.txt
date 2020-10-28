@@ -1,3 +1,5 @@
 This file creat for check setting gpg-keys
 --Fail--
 This file creat for check setting gpg-keys
+--Fail--
+This file creat for check setting gpg-keys
